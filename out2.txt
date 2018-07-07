@@ -1,0 +1,6 @@
+total 48
+drwxr-xr-x 4 user1 Users 4096 Jul  7 13:31 .
+drwx------ 6 user2 Users 4096 Jun  4 17:26 ..
+-rwxr-xr-x 1 user3 Prof  167 Jul  5 12:27 file1
+-rwxrwxrwx 1 user4 tech  425 Jul  5 12:27 file2
+dr--r-xrwx 2 user5 admin 4096 Jul  5 22:26 file3

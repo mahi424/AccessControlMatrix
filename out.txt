@@ -1,0 +1,14 @@
+total 48
+drwxrwxr-x 4 mahi a 4096 Jul  7 13:31 .
+drwxrwxr-x 6 mahi a 4096 Jun  4 17:26 ..
+-rwxrw-r-- 1 mahi1 b  167 Jul  5 12:27 circle_area.py
+-rwxrw-r-- 1 mahi1 b  425 Jul  5 12:27 circle_area_test.py
+dr-xrwxr-x 2 mahi1 c 4096 Jul  5 22:26 GUI
+-rwxrw-r-- 1 mahi2 c   88 Jul  6 00:34 largestNumFromString.py
+-rwxrw-r-- 1 mahi3 mahi  755 Jul  3 14:26 learn.py
+-rwxrw-r-- 1 mahi3 mahi  154 Jul  3 11:39 MNC_Durga.py
+-rwxrw-r-- 1 mahi3 mahi    0 Jul  7 13:31 out.txt
+-rwxrw-r-- 1 mahi4 mahi  511 Jun  4 17:28 p1.py
+-rwxrw-r-- 1 mahi4 mahi  122 Jul  6 09:48 PhoneDirectory.py
+drwxr-xr-x 2 mahi4 mahi 4096 Jul  5 12:27 __pycache__
+-rwxrw-r-- 1 mahi4 mahi 1661 Jul  5 15:41 RockPaperScissors.py
